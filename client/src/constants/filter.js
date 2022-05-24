@@ -1,0 +1,7 @@
+export const ASIA = "Asia"
+export const AFRICA = "Africa"
+export const EUROPA = "Europe"
+export const NA = "North America"
+export const LAS = "South America"
+export const OCEANIA = "Oceania"
+export const ANT = "Anctartica"
